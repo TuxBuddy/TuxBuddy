@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TuxBuddy icon">
+  <!-- TuxBuddy brand icon: minimal geometric Tux, pure edition.
+       Tux is the Linux mascot created by Larry Ewing. -->
+  <defs>
+    <linearGradient id="tbb-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1A2332"/>
+      <stop offset="1" stop-color="#0A0E16"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="115" fill="url(#tbb-bg)"/>
+  <path fill="#10151E" stroke="#2A3446" stroke-width="6" stroke-linejoin="round"
+    d="M256 130 C 190 130 158 180 152 244 C 146 308 178 376 256 376 C 334 376 366 308 360 244 C 354 180 322 130 256 130 Z"/>
+  <path fill="#F5F7FA"
+    d="M256 178 C 222 178 202 206 200 242 C 198 286 216 350 256 350 C 296 350 314 286 312 242 C 310 206 290 178 256 178 Z"/>
+  <ellipse fill="#FFFFFF" cx="226" cy="220" rx="15" ry="19"/>
+  <ellipse fill="#FFFFFF" cx="286" cy="220" rx="15" ry="19"/>
+  <circle fill="#0B0F16" cx="229" cy="225" r="7.5"/>
+  <circle fill="#0B0F16" cx="283" cy="225" r="7.5"/>
+  <circle fill="#FFFFFF" cx="232" cy="222" r="2.5"/>
+  <circle fill="#FFFFFF" cx="286" cy="222" r="2.5"/>
+  <path fill="#FFAB2E"
+    d="M256 248 C 267 248 276 256 273 266 C 270 278 262 283 256 283 C 250 283 242 278 239 266 C 236 256 245 248 256 248 Z"/>
+  <g fill="#FFAB2E">
+    <rect x="192" y="364" width="54" height="26" rx="13" transform="rotate(7 219 377)"/>
+    <rect x="266" y="364" width="54" height="26" rx="13" transform="rotate(-7 293 377)"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="TuxBuddy">
+  <!-- Simplified for 16-32px rendering: bolder shapes, no accessories. -->
+  <defs>
+    <linearGradient id="tbf-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1A2332"/>
+      <stop offset="1" stop-color="#0A0E16"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="115" fill="url(#tbf-bg)"/>
+  <path fill="#141926"
+    d="M256 140 C 188 140 154 194 148 258 C 142 322 176 396 256 396 C 336 396 370 322 364 258 C 358 194 324 140 256 140 Z"/>
+  <path fill="#F5F7FA"
+    d="M256 188 C 220 188 200 220 198 258 C 196 306 216 374 256 374 C 296 374 316 306 314 258 C 312 220 292 188 256 188 Z"/>
+  <ellipse fill="#FFFFFF" cx="228" cy="232" rx="19" ry="23"/>
+  <ellipse fill="#FFFFFF" cx="284" cy="232" rx="19" ry="23"/>
+  <circle fill="#0B0F16" cx="228" cy="236" r="9"/>
+  <circle fill="#0B0F16" cx="284" cy="236" r="9"/>
+  <path fill="#FFAB2E"
+    d="M256 262 C 270 262 280 272 276 284 C 272 298 264 304 256 304 C 248 304 240 298 236 284 C 232 272 242 262 256 262 Z"/>
+  <g fill="#FFAB2E">
+    <rect x="184" y="384" width="60" height="30" rx="15" transform="rotate(7 214 399)"/>
+    <rect x="268" y="384" width="60" height="30" rx="15" transform="rotate(-7 298 399)"/>
+  </g>
+</svg>
